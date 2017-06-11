@@ -1,0 +1,32 @@
+
+.logo {
+    width: 45%;
+    position: absolute;
+    top: -109%;
+    left: 29%;
+}
+
+.imagem {
+    width: 25%;
+    position: relative;
+    top: -4em;
+    left: -4em;
+}
+
+.scale{
+   position: absolute;
+    left: 0px;
+    top: 805px !important;
+}
+
+.scale-02{
+   position: absolute;
+    left: 0px;
+    top: 1202px !important;
+}
+
+.ocultos{
+    display: none;
+}
+
+
